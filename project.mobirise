@@ -42,9 +42,9 @@
               "color": "#ffffff"
             },
             ".mbr-navbar__items a": {
-              "font-size": "32px",
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+              "font-size": "36px",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
             }
           },
           "_name": "ext.menu",
@@ -95,15 +95,15 @@
             "P": {
               "color": "#ffffff",
               "text-align": "center",
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
               "font-size": "19px"
             },
             "SPAN": {
               "font-size": "48px",
               "text-align": "center",
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
               "color": "#ffffff"
             },
             "DIV": {
@@ -135,7 +135,7 @@
             "showArrow": true
           },
           "title": "<div style=\"text-align: center;\"><span style=\"text-align: left; font-weight: normal;\">СПИННЕР</span></div><span style=\"font-weight: normal;\">БЕГЛЕРИ</span><br><span style=\"font-weight: normal;\">ДЖАММЕР</span><br><span style=\"font-weight: normal;\"><br></span>",
-          "text": "помогает сосредоточится, снять стресс, <br>волнение или раздражительность. <br>Обязательная офисная игрушка в <b>2017</b> <br>по версии издания <b>Forbes</b>",
+          "text": "помогает сосредоточится, снять стресс, <br>волнение или раздражительность. <br>Обязательная офисная игрушка в 2017 <br>по версии издания Forbes",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>"
         },
         {
@@ -282,6 +282,19 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#4c6972",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "46px"
+            },
+            ".btn": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "17px"
+            }
+          },
           "_anchor": "form1-b",
           "_params": {
             "paddingTop": "1",
@@ -324,27 +337,14 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ОФОРМИТЬ ЗАКАЗ</a>",
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#4c6972",
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-size": "46px"
-            },
-            ".btn": {
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-size": "17px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ОФОРМИТЬ ЗАКАЗ</a>"
         },
         {
           "_styles": {
             ".mbr-header__text": {
               "color": "#4c6972",
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
               "font-size": "32px"
             },
             ".mbr-header__subtext": {
@@ -352,8 +352,8 @@
             },
             ".mbr-article": {
               "color": "#4c6972",
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
             }
           },
           "_tags": [
@@ -408,19 +408,19 @@
           "_styles": {
             ".mbr-header__text": {
               "color": "#4c6972",
-              "text-align": "right",
+              "text-align": "left",
               "font-size": "32px",
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
             },
             ".mbr-header__subtext": {
               "color": "#ffffff"
             },
             ".mbr-article": {
               "color": "#4c6972",
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "text-align": "right"
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "text-align": "left"
             },
             ".mbr-article P": {
               "color": "#4c6972",
@@ -448,7 +448,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": true,
+            "inverse": false,
             "showTitle": true,
             "showMeta": false,
             "showText": true,
@@ -469,7 +469,7 @@
               "loop": false
             }
           },
-          "headerAlign": "right",
+          "headerAlign": "left",
           "title": "BEGLERI",
           "meta": "By John Smith posted July 30, 2015",
           "text": "Два грузика из разнообразных материалов на концах шнурка. Впервые появились в Греции и выполняли там туже роль что и сегодня за пределами своей родины - занятость рук, некоторое успокаивающее действие и развитие мелкой моторики пальцев.",
@@ -480,16 +480,16 @@
             ".mbr-header__text": {
               "color": "#4c6972",
               "font-size": "32px",
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
             },
             ".mbr-header__subtext": {
               "color": "#ffffff"
             },
             ".mbr-article": {
               "color": "#4c6972",
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
             },
             ".mbr-article P": {
               "color": "#4c6972"
@@ -548,6 +548,18 @@
             "Theme"
           ],
           "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#4c6972",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "17px"
+            },
+            "STRONG": {
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+            }
+          },
           "_anchor": "contacts1-9",
           "_params": {
             "paddingTop": 3,
@@ -580,19 +592,7 @@
           },
           "text1": "",
           "text2": "<strong>КОНТАКТЫ</strong><br>\nEmail: inbox@krutim.com.ua<br>\nPhone: +3 (8) 063 760 7048<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><b>ЕЩЕ</b></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://kolld.github.io/\" target=\"_blank\">Потрясающие браслеты</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/\"></a></li><li><a href=\"https://mobirise.com/mobirise-free-win.zip\">Powerbank и кабели</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><a href=\"https://mobirise.com/mobirise-free-mac.zip\">Мост с Китаем</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>",
-          "_styles": {
-            "P": {
-              "color": "#4c6972",
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "font-size": "17px"
-            },
-            "STRONG": {
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
-            }
-          }
+          "text3": "<p class=\"mbr-contacts__text\"><b>ЕЩЕ</b></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://kolld.github.io/\" target=\"_blank\">Потрясающие браслеты</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/\"></a></li><li><a href=\"https://mobirise.com/mobirise-free-win.zip\">Powerbank и кабели</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><a href=\"https://mobirise.com/mobirise-free-mac.zip\">Мост с Китаем</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>"
         }
       ]
     }
