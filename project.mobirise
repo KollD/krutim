@@ -35,14 +35,14 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#ffffff"
+              "background": "#efefef"
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
             },
             ".mbr-navbar__items a": {
-              "font-size": "36px",
+              "font-size": "32px",
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
             }
@@ -50,7 +50,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-1",
           "_params": {
-            "color": "#ffffff",
+            "color": "#efefef",
             "hamburgerColor": "#ffffff",
             "transparent": true,
             "sticky": true,
@@ -62,7 +62,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/web004.gif",
+              "src": "@PROJECT_PATH@/assets/images/web007.gif",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -88,28 +88,28 @@
           "_name": "header1",
           "_styles": {
             "H1": {
-              "color": "#000000",
+              "color": "#393939",
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             },
             "P": {
-              "color": "#ffffff",
+              "color": "#393939",
               "text-align": "center",
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "font-size": "19px"
+              "font-size": "21px"
             },
             "SPAN": {
               "font-size": "48px",
               "text-align": "center",
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "color": "#ffffff"
+              "color": "#393939"
             },
             "DIV": {
               "text-align": "center",
               "font-size": "46px",
-              "color": "#ffffff",
+              "color": "#393939",
               "font-family": "'Open Sans Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
             }
@@ -126,15 +126,15 @@
             },
             "bgVideoRadio": false,
             "contentAlign": "right",
-            "overlay": false,
-            "overlayOpacity": "0.4",
-            "overlayColor": "#000000",
+            "overlay": true,
+            "overlayOpacity": "0.1",
+            "overlayColor": "#393939",
             "showTitle": true,
             "showText": true,
             "showButtons": false,
             "showArrow": true
           },
-          "title": "<div style=\"text-align: center;\"><span style=\"text-align: left; font-weight: normal;\">СПИННЕР</span></div><span style=\"font-weight: normal;\">БЕГЛЕРИ</span><br><span style=\"font-weight: normal;\">ДЖАММЕР</span><br><span style=\"font-weight: normal;\"><br></span>",
+          "title": "<div style=\"text-align: center;\"><span style=\"text-align: left;\">СПИННЕР</span></div>БЕГЛЕРИ<br>ДЖАММЕР<br><span style=\"font-weight: normal;\"><br></span>",
           "text": "помогает сосредоточится, снять стресс, <br>волнение или раздражительность. <br>Обязательная офисная игрушка в 2017 <br>по версии издания Forbes",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>"
         },
