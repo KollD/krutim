@@ -62,7 +62,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/web007.gif",
+              "src": "@PROJECT_PATH@/assets/images/web009.gif",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -88,12 +88,12 @@
           "_name": "header1",
           "_styles": {
             "H1": {
-              "color": "#393939",
+              "color": "#ffffff",
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             },
             "P": {
-              "color": "#393939",
+              "color": "#ffffff",
               "text-align": "center",
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
@@ -109,7 +109,7 @@
             "DIV": {
               "text-align": "center",
               "font-size": "46px",
-              "color": "#393939",
+              "color": "#ffffff",
               "font-family": "'Open Sans Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
             }
@@ -127,14 +127,14 @@
             "bgVideoRadio": false,
             "contentAlign": "right",
             "overlay": true,
-            "overlayOpacity": "0.1",
+            "overlayOpacity": "0.6",
             "overlayColor": "#393939",
             "showTitle": true,
             "showText": true,
             "showButtons": false,
             "showArrow": true
           },
-          "title": "<div style=\"text-align: center;\"><span style=\"text-align: left;\">СПИННЕР</span></div>БЕГЛЕРИ<br>ДЖАММЕР<br><span style=\"font-weight: normal;\"><br></span>",
+          "title": "<div style=\"text-align: left;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;СПИННЕР</div><div style=\"text-align: left;\"><span style=\"color: rgb(255, 255, 255); font-family: Lato, sans-serif; font-size: 46px;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;БЕГЛЕРИ</span></div><div style=\"text-align: left;\"><span style=\"color: rgb(255, 255, 255); font-family: Lato, sans-serif; font-size: 46px;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ДЖАММЕР</span></div><span style=\"font-weight: normal;\"><br></span>",
           "text": "помогает сосредоточится, снять стресс, <br>волнение или раздражительность. <br>Обязательная офисная игрушка в 2017 <br>по версии издания Forbes",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>"
         },
