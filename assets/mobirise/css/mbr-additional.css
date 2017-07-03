@@ -62,7 +62,7 @@
   font-size: 17px;
 }
 #msg-box5-4 .mbr-header__text {
-  color: #4c6972;
+  color: #7ac673;
   font-family: 'Roboto Condensed', sans-serif;
   font-size: 32px;
 }
@@ -70,11 +70,11 @@
   color: #ffffff;
 }
 #msg-box5-4 .mbr-article {
-  color: #4c6972;
+  color: #000000;
   font-family: 'Roboto Condensed', sans-serif;
 }
 #msg-box5-5 .mbr-header__text {
-  color: #4c6972;
+  color: #7ac673;
   text-align: left;
   font-size: 32px;
   font-family: 'Roboto Condensed', sans-serif;
@@ -83,7 +83,7 @@
   color: #ffffff;
 }
 #msg-box5-5 .mbr-article {
-  color: #4c6972;
+  color: #000000;
   font-family: 'Roboto Condensed', sans-serif;
   text-align: left;
 }
@@ -92,7 +92,7 @@
   text-align: right;
 }
 #msg-box5-6 .mbr-header__text {
-  color: #4c6972;
+  color: #7ac673;
   font-size: 32px;
   font-family: 'Roboto Condensed', sans-serif;
 }
@@ -100,17 +100,18 @@
   color: #ffffff;
 }
 #msg-box5-6 .mbr-article {
-  color: #4c6972;
+  color: #000000;
   font-family: 'Roboto Condensed', sans-serif;
 }
 #msg-box5-6 .mbr-article P {
   color: #4c6972;
 }
 #contacts1-9 P {
-  color: #4c6972;
+  color: #ffffff;
   font-family: 'Roboto Condensed', sans-serif;
   font-size: 17px;
 }
 #contacts1-9 STRONG {
   font-family: 'Open Sans Condensed', sans-serif;
+  color: #ffffff;
 }

@@ -62,7 +62,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/web003.gif",
+              "src": "@PROJECT_PATH@/assets/images/web004.gif",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -77,7 +77,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">063 760 7048</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">063 760 7048</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-success\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">КОНТАКТ</a></li>"
         },
         {
@@ -126,7 +126,7 @@
             },
             "bgVideoRadio": false,
             "contentAlign": "right",
-            "overlay": true,
+            "overlay": false,
             "overlayOpacity": "0.4",
             "overlayColor": "#000000",
             "showTitle": true,
@@ -333,16 +333,16 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Номер позиции и количество"
+                "customTitle": "Номер позиции и количество*"
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ОФОРМИТЬ ЗАКАЗ</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ОФОРМИТЬ ЗАКАЗ</a>"
         },
         {
           "_styles": {
             ".mbr-header__text": {
-              "color": "#4c6972",
+              "color": "#7ac673",
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
               "font-size": "32px"
@@ -351,7 +351,7 @@
               "color": "#ffffff"
             },
             ".mbr-article": {
-              "color": "#4c6972",
+              "color": "#000000",
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
             }
@@ -407,7 +407,7 @@
         {
           "_styles": {
             ".mbr-header__text": {
-              "color": "#4c6972",
+              "color": "#7ac673",
               "text-align": "left",
               "font-size": "32px",
               "font-family": "'Roboto Condensed', sans-serif",
@@ -417,7 +417,7 @@
               "color": "#ffffff"
             },
             ".mbr-article": {
-              "color": "#4c6972",
+              "color": "#000000",
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
               "text-align": "left"
@@ -478,7 +478,7 @@
         {
           "_styles": {
             ".mbr-header__text": {
-              "color": "#4c6972",
+              "color": "#7ac673",
               "font-size": "32px",
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
@@ -487,7 +487,7 @@
               "color": "#ffffff"
             },
             ".mbr-article": {
-              "color": "#4c6972",
+              "color": "#000000",
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
             },
@@ -550,14 +550,15 @@
           "_name": "contacts1",
           "_styles": {
             "P": {
-              "color": "#4c6972",
+              "color": "#ffffff",
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
               "font-size": "17px"
             },
             "STRONG": {
               "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "color": "#ffffff"
             }
           },
           "_anchor": "contacts1-9",
@@ -575,7 +576,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/web003.gif",
+              "src": "@PROJECT_PATH@/assets/images/web004.gif",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -591,8 +592,8 @@
             }
           },
           "text1": "",
-          "text2": "<strong>КОНТАКТЫ</strong><br>\nEmail: inbox@krutim.com.ua<br>\nPhone: +3 (8) 063 760 7048<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><b>ЕЩЕ</b></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://kolld.github.io/\" target=\"_blank\">Потрясающие браслеты</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/\"></a></li><li><a href=\"https://mobirise.com/mobirise-free-win.zip\">Powerbank и кабели</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><a href=\"https://mobirise.com/mobirise-free-mac.zip\">Мост с Китаем</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>"
+          "text2": "<strong>КОНТАКТЫ</strong><br>\nEmail: inbox@krutim.com.ua<br>Тел.: +3 (8) 063 760 7048<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><b>ЕЩЕ</b></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://kolld.github.io/\" target=\"_blank\" class=\"text-white\">Потрясающие браслеты</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/\"></a></li><li><a href=\"https://mobirise.com/mobirise-free-win.zip\" class=\"text-white\">Powerbank и кабели</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><a href=\"https://mobirise.com/mobirise-free-mac.zip\" class=\"text-white\">Мост с Китаем</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>"
         }
       ]
     }
